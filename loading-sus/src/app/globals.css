@@ -1,0 +1,17 @@
+.text-orange-400 {
+    color: orange;
+    font-size: 1rem;
+}
+
+.text-green-400 {
+    color: green;
+    font-size: 1rem;
+}
+
+.center {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
